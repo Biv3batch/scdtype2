@@ -1,1 +1,1 @@
-# scdtype2
+# scdtype1
